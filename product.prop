@@ -5,6 +5,3 @@ ro.secure=0
 ro.debuggable=1
 ro.control_privapp_permissions=log
 
-# Project-Elixir Stuff
-ro.elixir.maintainer=zaidkhan0997
-org.elixir.device=Redmi Note 10 Pro

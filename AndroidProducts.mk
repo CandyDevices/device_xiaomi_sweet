@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_sweet.mk
+    $(LOCAL_DIR)/candy_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_sweet-eng \
-    aosp_sweet-userdebug \
-    aosp_sweet-user
+    candy_sweet-eng \
+    candy_sweet-userdebug \
+    candy_sweet-user

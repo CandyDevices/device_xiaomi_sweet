@@ -121,6 +121,7 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    overlay-candy \
     CarrierConfigOverlaySweet \
     DialerOverlaySweet \
     DocumentsUIOverlaySweet \
